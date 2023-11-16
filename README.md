@@ -27,3 +27,10 @@ I have successfully designed and implemented a full-stack Airbnb clone, which re
    10.  Bootstap
 
 UrL  : https://wanderlust-12nd.onrender.com/listings
+##
+
+![Capture](https://github.com/BhavnaMogha/WanderLust-Airbnb-Clone-Project/assets/82330563/ab22543a-4643-483b-bb54-8b891453dac8)
+![Capture](https://github.com/BhavnaMogha/WanderLust-Airbnb-Clone-Project/assets/82330563/ed8e0a14-5b08-492f-b640-67988a1c9afa)
+![Capture](https://github.com/BhavnaMogha/WanderLust-Airbnb-Clone-Project/assets/82330563/6ac9f88e-2a39-4be6-a2c7-82b333b8a8c4)
+![Capture](https://github.com/BhavnaMogha/WanderLust-Airbnb-Clone-Project/assets/82330563/b024444e-154d-4319-84ea-269d4d3bdfa2)
+![Uploading Capture.PNG…]()
