@@ -1,4 +1,4 @@
-![image](https://github.com/BhavnaMogha/WanderLust-Airbnb-Clone-Project/assets/82330563/83e85ad7-fa0a-4637-bacf-c295ce686c4e)![Capture](https://github.com/BhavnaMogha/WanderLust-Airbnb-Clone-Project/assets/82330563/3aaaced8-2f2c-4c82-a2ed-6cdcc4920b7b)# MAJOR PROJECT (WANDERLUST)
+# MAJOR PROJECT (WANDERLUST)
 
 ## Description
 Project Summary:
